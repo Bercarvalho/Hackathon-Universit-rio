@@ -5,6 +5,7 @@ Sistema de Gerenciamento de Hackathons Universitários
 Bacharelado em Engenharia de Software – Campus Coração Eucarístico
 
 Disciplina: Programação Modular
+
 Professor: Daniel Kansaon
 
 👨‍💻 Participantes
