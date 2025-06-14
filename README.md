@@ -6,6 +6,7 @@ Disciplina: Programação Modular
 Professor: Daniel Kansaon
 
 👨‍💻 Participantes
+
 João Gabriel da Silva Moreira
 
 Bernardo Carvalho Denucci
