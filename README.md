@@ -1,6 +1,7 @@
 Sistema de Gerenciamento de Hackathons Universitários
 
 🎓 Universidade Pontifícia Universidade Católica de Minas Gerais
+
 Bacharelado em Engenharia de Software – Campus Coração Eucarístico
 Disciplina: Programação Modular
 Professor: Daniel Kansaon
